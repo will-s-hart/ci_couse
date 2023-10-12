@@ -4,4 +4,4 @@ API
 .. autosummary::
    :toctree: generated
 
-   cpi-course.functionality
+   ci_course.functionality
